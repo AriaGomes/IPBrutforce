@@ -4,7 +4,7 @@ multi-threaded application that generates random IP addresses and sends a reques
 ## Setup
 1. Clone the repo
 2. Enter the repo directory
-3. ```bash py -m pip install requests```
+3. ```py -m pip install requests```
 
 ## Run
 ```bash
